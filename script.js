@@ -1,4 +1,4 @@
-const words = ["apple", "grape", "peach", "berry", "melon"];
+const words = ["booty", "nigga", "gyatt", "poopy", "imgay"];
 let randomWord = words[Math.floor(Math.random() * words.length)];
 let attempts = 0;
 
